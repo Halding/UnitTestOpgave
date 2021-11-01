@@ -1,0 +1,12 @@
+C:\RiderFiles\UnitTestOpgave\BusOpgave\bin\Debug\net5.0\BusOpgave.deps.json
+C:\RiderFiles\UnitTestOpgave\BusOpgave\bin\Debug\net5.0\BusOpgave.dll
+C:\RiderFiles\UnitTestOpgave\BusOpgave\bin\Debug\net5.0\ref\BusOpgave.dll
+C:\RiderFiles\UnitTestOpgave\BusOpgave\bin\Debug\net5.0\BusOpgave.pdb
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.csproj.AssemblyReference.cache
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.AssemblyInfoInputs.cache
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.AssemblyInfo.cs
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.csproj.CoreCompileInputs.cache
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.dll
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\ref\BusOpgave.dll
+C:\RiderFiles\UnitTestOpgave\BusOpgave\obj\Debug\net5.0\BusOpgave.pdb

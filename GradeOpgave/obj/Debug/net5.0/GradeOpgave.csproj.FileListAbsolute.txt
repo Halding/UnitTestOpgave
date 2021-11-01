@@ -1,0 +1,12 @@
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\bin\Debug\net5.0\GradeOpgave.deps.json
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\bin\Debug\net5.0\GradeOpgave.dll
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\bin\Debug\net5.0\ref\GradeOpgave.dll
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\bin\Debug\net5.0\GradeOpgave.pdb
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.csproj.AssemblyReference.cache
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.AssemblyInfoInputs.cache
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.AssemblyInfo.cs
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.csproj.CoreCompileInputs.cache
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.dll
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\ref\GradeOpgave.dll
+C:\RiderFiles\UnitTestOpgave\GradeOpgave\obj\Debug\net5.0\GradeOpgave.pdb
